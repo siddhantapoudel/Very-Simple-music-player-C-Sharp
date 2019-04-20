@@ -1,0 +1,32 @@
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\Interop.WMPLib.dll
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\AxInterop.WMPLib.dll
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\Interop.WMPLib.dll
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\AxInterop.WMPLib.dll
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+c:\users\siddhanta\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\Interop.WMPLib.dll
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\AxInterop.WMPLib.dll
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\Interop.WMPLib.dll
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\AxInterop.WMPLib.dll
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\Application Files\Visual Studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
